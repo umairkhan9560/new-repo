@@ -1,0 +1,12 @@
+{
+    "development": {
+        "config_id": "development",
+        "app_name": "demo",
+        "app_desc": "demo",
+        "node_port": 2000,
+        "host": "localhost",
+        "database": "demo-dev",
+        "swaggerURL":"localhost:2000"
+
+    }
+}
